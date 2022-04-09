@@ -15,7 +15,7 @@
 
     --fw-400: 300; /* base */
     --fw-500: 400;
-    --fe-700: 600;
+    --fw-700: 600;
 }
 
 /* Box sizing rules */
@@ -164,7 +164,7 @@ a:visited {
 }
 
 .details__text--fw {
-    font-weight: var(--fw-500);
+    font-weight: var(--fw-700);
 }
 
 .auction {

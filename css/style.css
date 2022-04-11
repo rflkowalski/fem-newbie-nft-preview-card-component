@@ -224,10 +224,6 @@ a:hover {
     width: 2rem;
     height: 2rem;
     margin: 0 1rem 0 0;
-    background-image: url('../img/image-avatar.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
     border: 1px solid var(--clr-neutral-100);
     border-radius: 50%;
 }
